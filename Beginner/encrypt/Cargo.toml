@@ -1,0 +1,10 @@
+[package]
+name = "encrypt"
+version = "0.1.0"
+edition = "2021"
+ring = "0.16.20" 
+clap = "2.33.3"
+anyhow = "1.0" 
+
+[dependencies]
+

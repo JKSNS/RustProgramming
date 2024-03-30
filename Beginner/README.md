@@ -1,4 +1,5 @@
 Brainstorming: 
+<br> 
 Building a Simple Port Scanner: Learn the basics of networking in Rust by creating a tool that scans a target IP address or range for open ports. This project will help you understand how network connections work and get familiar with Rust's standard library for handling IP addresses and sockets.
 
 File Encryption and Decryption Tool: Implement a command-line tool that can encrypt and decrypt files using a symmetric encryption algorithm, like AES. This project introduces you to Rust's cryptographic library crates, such as rust-crypto or ring, and teaches you the basics of encryption.
